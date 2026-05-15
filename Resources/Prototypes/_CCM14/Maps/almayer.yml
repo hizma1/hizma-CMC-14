@@ -2,7 +2,7 @@
   id: Almayer
   mapName: Almayer
   mapPath: /Maps/_CCM14/almayer.yml
-  minPlayers: 0
+  minPlayers: 15
   maxRandomOffset: 0
   randomRotation: false
   fallback: true
@@ -56,8 +56,8 @@
           CMFireteamLeader: [4, 4]
           CMSmartGunOperator: [2, 2]
           CMWeaponsSpecialist: [2, 2]
-          CMCombatTech: [8, 16]
-          CMHospitalCorpsman: [8, 20]
+          CMCombatTech: [4, 8]
+          CMHospitalCorpsman: [4, 10]
           CMRifleman: [ -1, -1 ]
 
           #Civilians
